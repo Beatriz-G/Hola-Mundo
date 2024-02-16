@@ -15,6 +15,10 @@ Aqui andamos otra ves! Tercera ves con el branch y pull request! Yesssss!!!!
 
 Okay, cuarta vez! Todo va bien! Ya me estoy memorizando casi todo, y tengo mas confianza para hacer esto!
 
-Lunes, Febrero 5
+# Lunes, Febrero 5
 Buenos días! ya es el día siguiente y voy a ver si puedo hacer el branch, pull request y commit sin ver las direcciones!
 
+
+# Viernes, Febrero 16
+
+Hola, hola! Otra vez a practicar!!!
